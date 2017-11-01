@@ -1,0 +1,40 @@
+.title{
+	margin: 50px 0px 0px 0px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: white;
+	text-align: center;
+	background-color: black;
+	width: 100%;
+}
+.contents{
+	margin: 0px 0px 10px 0px;
+	background-color: grey;
+}
+#description{
+	float: left;
+	width: 60%;
+	height: 400px;
+}
+#contact_info{
+	float: right;
+	width: 40%;
+	height: 400px;
+}
+.imagesize{
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+#box{
+	background-color: #1E5792;
+	width: 400px;
+	height: 440px;
+	margin: 100px 30px 20px 50px;
+	color: #fff;
+	padding: 25px 10px 30px 20px;
+	border-style: solid;
+	border-width: 22px;
+	border-color: #113152;
+}
